@@ -7,7 +7,7 @@ Click==7.0
 elasticsearch==2.3.0
 elasticsearch-dsl==2.2.0
 idna==2.8
-Jinja2==2.10
+Jinja2==2.11.3
 lxml==4.3.0
 MarkupSafe==1.1.0
 more-itertools==5.0.0
