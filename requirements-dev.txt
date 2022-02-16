@@ -27,7 +27,7 @@ packaging==19.0
 pandas
 pep257==0.7.0
 pluggy==0.8.1
-py==1.7.0
+py==1.10.0
 pycodestyle==2.5.0
 pyflakes==2.1.0
 Pygments==2.3.1

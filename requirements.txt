@@ -14,7 +14,7 @@ more-itertools==5.0.0
 numpy
 pandas
 pluggy==0.8.1
-py==1.7.0
+py==1.10.0
 pypandoc==1.4
 pytest==4.2.0
 python-dateutil==2.8.0
