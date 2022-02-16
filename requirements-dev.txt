@@ -37,7 +37,7 @@ pytest==4.2.0
 python-dateutil==2.8.0
 python-gitlab==1.7.0
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.4
 recommonmark==0.5.0
 requests==2.21.0
 requests-toolbelt==0.9.1
